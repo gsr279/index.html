@@ -1,0 +1,148 @@
+DOCTYP <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Job Listings</title>
+</head>
+<body>
+   <h1>Job Titles</h1>
+   <a name = "topsectiontitles"></a>
+   <p>Back End Developer</p>
+   <p><a href = "#bottomsectiondiscbackend"> Bottom section Back end role</a></p>
+   <br>
+   <a name = "topsectiontitles"></a>
+   <p>Front End Developer</p>
+   <p><a href = "#bottomsectiondiscfrontend">Bottom section Front end role</a></p>
+   <br>
+
+   <a name = "topsectiontitles"></a>
+   <p>Full Stack Developer</p>
+   <p><a href = "#bottomsectiondiscfullstack"> Bottom section Full stack role</a></p>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+
+<br>
+<a name ="bottomsectiondiscbackend"></a>
+<h3>Back end Developer
+    <p>A back-end web developer is responsible for server-side web application logic and
+         integration of the work front-end developers do. Back-end developers are usually 
+        write the web services and APIs used by front-end developers and mobile application
+         developers</p>
+    </h3>
+    <br>
+    <br>
+    <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+    <a name ="bottomsectiondiscfrontend"></a>
+<h3>Front End Developer
+    <p>A front-end developer links together the world of design and technology, packaging up
+         the utility of the back end in an inviting way for users to interact with.
+         They take website design files and convert them into HTML, JavaScript (JS) and/or CSS code</p>
+    </h3>
+    <br>
+    <br>
+    <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+    <a name ="bottomsectiondiscfullstack"></a>
+<h3>Full Stack Developer
+    <p>A full stack developer is an engineer who can handle all the work of databases,
+         servers, systems engineering, and clients. Depending on the project, what customers
+          need may be a mobile stack, a Web stack, or a native application stack</p>
+    </h3>
+<br>
+<br>
+<br>
+<br>
+</body>
+</html>
